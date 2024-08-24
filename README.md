@@ -22,5 +22,9 @@ The game features a snake that moves around the screen, eating food pellets and 
 
 Built using HTML, CSS, and JavaScript
 
+# Host
+
+The game hosted on [Netlify](https://snake-game-bushra.netlify.app/)
+
 I hope you like it 😊!
 ![enjoy](https://media.tenor.com/-TZw6irK-FUAAAAj/razer-sneki.gif)
